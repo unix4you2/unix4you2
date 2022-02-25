@@ -1,3 +1,9 @@
+## John F. Arroyave G.
+&#127760; [Practico Framework](https://www.practico.org)
+<br>
+&#127760; [Unixlandia](https://www.unixlandia.org)
+<hr>
+
 ### [ES] 🇨🇴 🇪🇸 Hola a todos! 👋
 >Todos mis repositorios fueron eliminados de GitHub y migrados a otro sitio. Si usted necesita algo puede escribir a unix4you2@gmail.com
 
@@ -12,22 +18,3 @@
 
 ### [HI] 🇮🇳 सभी को नमस्कार! 👋
 >मेरे सभी रिपॉजिटरी को GitHub से हटा दिया गया और दूसरी साइट पर माइग्रेट कर दिया गया। अगर आपको कुछ चाहिए तो आप unix4you2@gmail.com पर लिख सकते हैं
-
-
-
-
-
-<!--
-**unix4you2/unix4you2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
